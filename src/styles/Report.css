@@ -1,0 +1,69 @@
+.link-home {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.form-report {
+  width: 60%;
+  height: 25rem;
+  background: #aebdca;
+  margin: 2rem auto;
+  border-radius: 8px;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 5rem;
+  padding-bottom: 4rem;
+}
+
+.report-input {
+  width: 50%;
+  height: 100px;
+}
+
+.report-input p {
+  font-size: 18px;
+  text-align: start;
+  color: #f5efe6;
+  padding-left: 18%;
+}
+
+.report-input input {
+  width: 60%;
+  height: 30px;
+  background-color: #f5efe6;
+  border: none;
+  padding-left: 5px;
+}
+
+.report-input input::placeholder {
+  color: #7895b2;
+  font-size: 17px;
+}
+
+.report-input select {
+  width: 65%;
+  height: 30px;
+  background-color: #f5efe6;
+  border: none;
+  color: #7895b2;
+  font-size: 17px;
+}
+
+.generate-button {
+  width: 40%;
+  height: 50px;
+  background: #7895b2;
+  border: none;
+  border-radius: 5px;
+  color: #f5efe6;
+  font-size: 20px;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.generate-button i {
+  padding-right: 10px;
+  font-size: 25px;
+}

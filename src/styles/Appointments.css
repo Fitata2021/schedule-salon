@@ -1,0 +1,29 @@
+.link-home {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+table {
+  background: #e8dfca;
+  margin: 2rem auto;
+  border-radius: 8px;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.table-head th {
+  background: #aebdca;
+  border-radius: 3px;
+}
+
+.table-body {
+  border: solid 1px#aebdca;
+}
+.table-body select {
+  border: none;
+  background: #f5efe6;
+}
+
+.table-body td {
+  border: solid 2px #f5efe6;
+  border-radius: 3px;
+}

@@ -1,0 +1,43 @@
+.options-container {
+  margin: auto;
+  margin-top: 2.5rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 58%;
+  height: 500px;
+}
+.option-square {
+  width: 260px;
+  height: 40%;
+  background: #aebdca;
+  margin: 1.5rem;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
+}
+.option-square:hover {
+  width: 261px;
+  height: 40.3%;
+  border: solid 2px #78a5cc;
+  i {
+    font-size: 500%;
+  }
+  h3 {
+    font-size: 22px;
+    color: black;
+  }
+}
+
+.option-square i {
+  font-size: 350%;
+  margin-top: 15%;
+}
+.option-square h3 {
+  color: #f5efe6;
+  font-size: 21px;
+}

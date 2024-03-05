@@ -1,0 +1,29 @@
+.home-header {
+  background: #aebdca;
+  height: 5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: #78a5cc 1px solid;
+}
+.home-header h1 {
+  font-size: 35px;
+  cursor: pointer;
+}
+.logo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: #f5efe6;
+  position: absolute;
+  left: 3.5rem;
+  top: 1.2rem;
+}
+.logo-corporativo {
+  position: absolute;
+  width: 170px;
+  border-radius: 50%;
+  left: 2rem;
+  top: -1.1rem;
+}

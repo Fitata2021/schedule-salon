@@ -1,0 +1,48 @@
+.objects-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.object-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 2rem;
+  width: 60%;
+  height: 25rem;
+  margin: 4rem 1rem;
+  background: #aebdca;
+  position: relative;
+  border-radius: 8px;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.object-card h2 {
+  margin: 0 auto;
+}
+.object-image {
+  width: 180px;
+  border-radius: 50%;
+  position: absolute;
+  top: -60px;
+  right: -60px;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
+  border: #aebdca 3px solid;
+}
+.link-home {
+  text-align: center;
+  margin-top: 2rem;
+}
+.create-option {
+  margin-top: 1rem;
+  margin-left: 26%;
+  width: 100%;
+}
+.card-buttons {
+  display: flex;
+  justify-content: space-around;
+  background: none;
+}
+.link {
+  color: #387adf;
+}
