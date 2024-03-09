@@ -21,6 +21,7 @@ table {
 .table-body select {
   border: none;
   background: #f5efe6;
+  font-size: 15px;
 }
 
 .table-body td {

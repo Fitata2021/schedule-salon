@@ -26,7 +26,7 @@ const Appoinments = () => {
             <td>Alejandra Rodriguez</td>
             <td>Corte de Cabello</td>
             <td>Tatiana Silva</td>
-            <td>6/03/2024</td>
+            <td>06/03/2024</td>
             <td>9:00-10:00am</td>
             <td>Finalizado</td>
           </tr>
@@ -52,7 +52,7 @@ const Appoinments = () => {
             <td>
               <select>
                 <option value="1">Seleccionar</option>
-                <option value="1">6/03/2024</option>
+                <option value="1">06/03/2024</option>
                 <option value="2">07/03/2024</option>
                 <option value="3">08/03/2024</option>
               </select>
@@ -71,7 +71,7 @@ const Appoinments = () => {
             <td>Camila Valencia</td>
             <td>Maquillaje</td>
             <td>Yesid Murcia</td>
-            <td>6/03/2024</td>
+            <td>06/03/2024</td>
             <td>9:00-10:00am</td>
             <td>Finalizado</td>
           </tr>
@@ -79,7 +79,7 @@ const Appoinments = () => {
             <td>Carlos Restrepo</td>
             <td>Arreglo de Barba</td>
             <td>Tatiana Silva</td>
-            <td>6/03/2024</td>
+            <td>06/03/2024</td>
             <td>10:00-11:00am</td>
             <td>En Proceso</td>
           </tr>
@@ -105,7 +105,7 @@ const Appoinments = () => {
             <td>
               <select>
                 <option value="1">Seleccionar</option>
-                <option value="1">6/03/2024</option>
+                <option value="1">06/03/2024</option>
                 <option value="2">07/03/2024</option>
                 <option value="3">08/03/2024</option>
               </select>
@@ -124,7 +124,7 @@ const Appoinments = () => {
             <td>Roberto Alvarez</td>
             <td>Corte de Cabello</td>
             <td>Vanessa Castillo</td>
-            <td>6/03/2024</td>
+            <td>06/03/2024</td>
             <td>12:00-1:00pm</td>
             <td>Pendiente</td>
           </tr>
@@ -150,7 +150,7 @@ const Appoinments = () => {
             <td>
               <select>
                 <option value="1">Seleccionar</option>
-                <option value="1">6/03/2024</option>
+                <option value="1">06/03/2024</option>
                 <option value="2">07/03/2024</option>
                 <option value="3">08/03/2024</option>
               </select>
@@ -169,7 +169,7 @@ const Appoinments = () => {
             <td>Isabel Aguirre</td>
             <td>Corte de cabello</td>
             <td>Tatiana Silva</td>
-            <td>6/03/2024</td>
+            <td>06/03/2024</td>
             <td>2:00-3:00pm</td>
             <td>Pendiente</td>
           </tr>
@@ -177,7 +177,7 @@ const Appoinments = () => {
             <td>Ramón Valdez</td>
             <td>Arreglo de Barba</td>
             <td>Yesid Murcia</td>
-            <td>6/03/2024</td>
+            <td>06/03/2024</td>
             <td>3:00-4:00pm</td>
             <td>Pendiente</td>
           </tr>
@@ -203,7 +203,7 @@ const Appoinments = () => {
             <td>
               <select>
                 <option value="1">Seleccionar</option>
-                <option value="1">6/03/2024</option>
+                <option value="1">06/03/2024</option>
                 <option value="2">07/03/2024</option>
                 <option value="3">08/03/2024</option>
               </select>
