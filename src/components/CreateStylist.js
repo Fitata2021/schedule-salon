@@ -6,7 +6,7 @@ const CreateStylist = () => {
   return (
     <div>
       <h2 className="link-back">
-        <Link to={"/services"} className="link">
+        <Link to={"/stylists"} className="link">
           Atrás
         </Link>
       </h2>
